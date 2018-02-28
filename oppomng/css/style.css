@@ -1,0 +1,21 @@
+.pull_right {
+    float: right;
+}
+
+.pull_aright {
+    
+    left: 500px;
+    top: 0;
+    position: absolute;
+}
+
+.down {
+    
+     margin-top: 50px;
+}
+
+.center {
+    margin-top: 100px;
+    text-align: center;
+    display: block;
+}
